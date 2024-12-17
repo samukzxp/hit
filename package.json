@@ -6,6 +6,6 @@
   },
   "scripts": {
     "start": "node index.js",
-    "install": "npm install express venom-bot cors"
+    "install": "npm i venom-bot"
   }
 }
